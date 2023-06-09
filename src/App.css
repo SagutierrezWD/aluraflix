@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,12 @@
   to {
     transform: rotate(360deg);
   }
+} */
+.site{
+  width: 100%;
+  height: auto;
+  min-height: 100dvh;
+  background-color: darkslategray;
+  display: flex;
+  flex-direction: column;
 }
